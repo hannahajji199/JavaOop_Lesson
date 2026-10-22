@@ -64,7 +64,7 @@ class StudentAccount extends BankAccount {
     }
 }
 
- abstract class Exam_abstractClass {
+ public class Exam_abstractClass {
      public static void main(String[] args) {
          // BankAccount x = new BankAccount("BAS-1", 100);
 
